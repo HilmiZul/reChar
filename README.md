@@ -1,5 +1,5 @@
 # What?
-reChar will find '+' char and replace char before to Upper. And same for '-' char.
+Find '+' char and replace char before to Upper. And same for '-' char.
 
 # Before...
 * g++ 4.2.1 or later
