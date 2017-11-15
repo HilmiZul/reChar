@@ -11,4 +11,5 @@ reChar will find '+' char and replace char before to Upper. And same for '-' cha
   * ```g++ rechar.cpp -o rechar```
   * ```./rechar```
   * Input text, for example: ```R-ec+H-ar```
+
 ![image for sc-rechar](https://github.com/HilmiZul/reChar/blob/master/sc.png)
