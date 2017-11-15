@@ -7,9 +7,9 @@ Find '+' and change before to Upper. And same for '-' change to Lower.
 * Exctract it
 
 # Let's Play :D
-* Open terminal
-  * ```g++ rechar.cpp -o rechar```
-  * ```./rechar```
-  * Input text, for example: ```R-ec+H-ar```
+Open terminal
+* ```g++ rechar.cpp -o rechar```
+* ```./rechar```
+* Input text, for example: ```R-ec+H-ar```
 
 ![image for sc-rechar](https://github.com/HilmiZul/reChar/blob/master/sc.png)
