@@ -1,9 +1,9 @@
 # What?
-Find '+' char and replace char before to Upper. And same for '-' char.
+Find '+' and change before to Upper. And same for '-' change to Lower.
 
 # Before...
 * g++ 4.2.1 or later
-* Download ```reChar-master.zip```
+* Download [reChar-master.zip](https://github.com/HilmiZul/reChar/archive/master.zip)
 * Exctract it
 
 # Let's Play :D
