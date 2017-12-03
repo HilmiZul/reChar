@@ -1,5 +1,5 @@
 # What?
-
+reChar a.k.a Replace Character. Change to Upper when meet '+' or to Lower when meet '-'.
 
 # Before...
 * g++ 4.2.1 or later
