@@ -1,5 +1,5 @@
 # What?
-Find '+' and change before to Upper. And same for '-' change to Lower.
+
 
 # Before...
 * g++ 4.2.1 or later
